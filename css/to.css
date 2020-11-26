@@ -1,0 +1,66 @@
+body {
+
+	background-image: url("relax.jpg");
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  
+}
+
+h1{
+	font-size: 2em;
+	color: red;
+	text-align: center;
+
+}
+
+
+#div_zero{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	width: 50%;
+	height: 500px;
+	text-align: center;
+	margin-left: 25%;
+	border-style: solid;
+	border-radius: 25px;
+	background:rgba(255,255,255, 0.5);
+}
+
+input{
+	text-align: left;
+}
+.div_first{
+
+  
+  color: white;
+  text-align: center;
+  width: 100%;
+
+
+}
+
+.div_second{
+	
+  padding-top: 0px;
+  text-align: center;
+  width: 100%;
+}
+
+li{
+	text-align: center;
+	padding-left: 0px;
+}
+
+ul{
+	text-align: center;
+	padding-left: 0px;
+	list-style-type:none;
+}
+
+p{
+	border: hidden;
+	margin-bottom: 10px;
+
+}
+
+
